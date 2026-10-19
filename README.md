@@ -1,6 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/you0172/you0172/main/assets/banner.svg" alt="you0172" width="100%" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=you0172&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%C2%B7%20Builder%20%C2%B7%20Lifelong%20Learner&descAlignY=58&descSize=18" width="100%" alt="header" />
+<div align="center">
 
 <a href="https://github.com/you0172">
   <img src="https://img.shields.io/badge/GitHub-you0172-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -15,7 +17,7 @@
 
 ## 👋 &nbsp;About Me
 
-> *I build things on the internet, learn in public, and believe that small consistent commits beat heroic bursts.*
+> *Small consistent commits beat heroic bursts.*
 
 <table>
 <tr>
@@ -58,26 +60,24 @@ Everything lives here, on GitHub.
 
 ---
 
-## 📊 &nbsp;GitHub Analytics
+## 📊 &nbsp;At a Glance
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=you0172&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f2027&title_color=2c9edb&icon_color=2c9edb&text_color=c9d1d9&border_radius=12" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=you0172&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=2c9edb&text_color=c9d1d9&border_radius=12&langs_count=8" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=you0172&theme=tokyonight&hide_border=true&background=0f2027&ring=2c9edb&fire=2c9edb&currStreakLabel=2c9edb&border_radius=12" alt="GitHub streak" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyou0172&query=%24.public_repos&label=Public%20Repos&color=2c5364&labelColor=0f2027&style=for-the-badge" alt="Public repos" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyou0172&query=%24.followers&label=Followers&color=2c5364&labelColor=0f2027&style=for-the-badge" alt="Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyou0172&query=%24.public_gists&label=Gists&color=2c5364&labelColor=0f2027&style=for-the-badge" alt="Gists" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyou0172&query=%24.created_at&label=Joined&color=2c5364&labelColor=0f2027&style=for-the-badge" alt="Joined" />
 
 </div>
 
 ---
 
-## 📈 &nbsp;Contribution Activity
+## 📈 &nbsp;Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=you0172&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=2c9edb&line=2c9edb&point=ffffff&area=true&area_color=2c5364" alt="Activity graph" width="100%" />
+<img src="https://ghchart.rshah.org/2c9edb/you0172" alt="Contribution chart" width="100%" />
 
 </div>
 
@@ -87,11 +87,20 @@ Everything lives here, on GitHub.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/you0172/you0172/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/you0172/you0172/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
-<sub>Snake animation is generated automatically by a scheduled workflow in this repository.</sub>
+<sub>Generated every 12 hours by a scheduled workflow in this repository.</sub>
 
 </div>
+
+---
+
+## 🧭 &nbsp;What's Next
+
+- [ ] Ship the first public project
+- [ ] Write a technical deep-dive
+- [ ] Contribute to an open-source project I use daily
+- [ ] Keep a 30-day commit streak
 
 ---
 
@@ -106,9 +115,5 @@ Everything lives here, on GitHub.
 <br/><br/>
 
 <sub>⭐️ Thanks for stopping by — <a href="https://github.com/you0172">you0172</a></sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
